@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../javascript-pr"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "threejs"
+	}
+}
